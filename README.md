@@ -19,4 +19,4 @@ cd linux-line-shortcut
 
 完成後便可以在 Application 選單中找到 LINE 的連結。
 
-![screenshot](https://github.com/[hengtsechou]/[linux-line-desktop-entry]/blob/[main]/screenshot.png?raw=true)
+![screenshot](https://github.com/[hengtsechou]/[linux-line-shortcut]/blob/[main]/screenshot.png?raw=true)
