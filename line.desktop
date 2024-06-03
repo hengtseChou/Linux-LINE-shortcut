@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=LINE
+Comment=LINE (Chromium Extension)
+Type=Application
+Categories=Chat
+Icon=LINE
+Exec=/usr/bin/chromium --app=chrome-extension://ophjlpahpchlmihnnnihgmmeilfjmjjc/index.html --window-size=800,600
+Terminal=false
+StartupNotify=true
+
